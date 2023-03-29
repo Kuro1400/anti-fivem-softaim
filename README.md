@@ -1,1 +1,1 @@
-# anti-fivem-softaim
+This is a simple Script to disable the new "Softaim.rpf"
